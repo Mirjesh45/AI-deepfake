@@ -1,0 +1,8 @@
+{
+  "name": "Sentinel Forensic AI - Deepfake Detection Suite",
+  "description": "A world-class SOC-grade deepfake and AI manipulation detection tool designed for security analysts and accessibility. Detects manipulations in images, video, audio, and URLs.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
